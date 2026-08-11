@@ -17,8 +17,7 @@ The best moment to create a backup is right after the first boot of the OEM devi
 
 Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png" alt=""></p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png" alt=""></p>  
 <div align="center">
 
 ---
