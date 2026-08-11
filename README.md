@@ -37,7 +37,9 @@ Of course, the backup can be created on any device running Windows. I emphasize 
     
 5.   After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
 6.   Illustrative image of LOG / and its contents
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Backup%20Complet.png" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" alt=""></p>
+
+
 
 ---
 
