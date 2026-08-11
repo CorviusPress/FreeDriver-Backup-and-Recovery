@@ -33,7 +33,8 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 2.  Click the **BackupAndRestoreDriver.exe** and open it.
 3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the **"SAVE"** folder on the **"C:\"** drive. In your case, for backup, choose an external device such as an external **HDD** or **USB** key. </br>
 
-    <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/Select%20Folder.png" alt="select folder"></p>
+    <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Select%20Folder.png" alt="select folder"></p>
+    
 5.   After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
 6.   Illustrative image of LOG / and its contents
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Backup%20Complet.png" alt=""></p>
