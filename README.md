@@ -29,7 +29,7 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 ### Use DriverSave on the Windows platform
 
-1. Download EXECUTABLE file .exe *   [**FreeDriver Recovery .exe**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe) 
+1. Download .exe or ps1 if you want to run Powershell from the repository [**FreeDriver Last Relase Download**](https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/releases/tag/V1.1) 
 2.  Click the **BackupAndRestoreDriver.exe** and open it.
 3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the **"SAVE"** folder on the **"C:\"** drive. In your case, for backup, choose an external device such as an external **HDD** or **USB** key. </br>
 
