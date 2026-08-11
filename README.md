@@ -61,21 +61,5 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Driver%20Log.png" alt=""></p>
 ---
 
-### Method 2 : Using PowerShell script .ps1 
-
-type `PowerShell`, and open it.
-
-> [!TIP]
-> 1
-> 2
-
-
-> [!NOTE]
-> 1
-> 2
-
-
-
----
 
 
