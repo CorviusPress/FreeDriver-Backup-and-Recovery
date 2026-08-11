@@ -22,7 +22,7 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 ---
 
-## How to Using FreeDriver Revovery for Backup :
+## How to use FreeDriver for Backup :
 
 </div>
 
@@ -41,10 +41,35 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 ---
 
 <div align="center">
-  
-### Saving a log of Backup or Restore 
+
+## How to use FreeDriver for Recovery
 
 </div>
+
+- To restore a driver or just a specific driver for a specific item, you have two options.
+- After a clean installation on your device, you can restore the collectively backed up drivers via the **"Restore drivers"** option:
+
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt=""></p>
+
+</div>
+- After the restore is complete, you should see a window with a message that the restore was completed.
+
+
+---
+
+## How to use FreeDriver for Recovery from Device Manager
+
+- In case you want to restore only a specific item, be it a network card, audio, or other component via Device Manager.
+- In the Update Drivers window that opens, select Browse my computer for drivers.
+- In the Browse for drivers on your computer window, select the Browse... button
+- In the Browse For Folder window, browse to the location where the drivers were downloaded to, and then select the OK button.
+- In the Browse for drivers on your computer window, make sure the path to the drivers is correct, then select the Next button.
+
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" alt=""></p>
+
+---
+  
+### Saving a log of Backup or Restore 
 
 1. Wait until the driver is successfully backed up or restored.
 2. After finishing, when a window appears asking if you want to close the application, click `NO` .
