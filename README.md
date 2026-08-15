@@ -7,7 +7,7 @@
 
 <div align="center">
   
-## Backup and Restore .inf Drivers compatible with OEM devices Desktops, Notebooks or Tablets : Lenovo, Acer, HP, Asus, Dell and more ..
+## Backup and Restore .inf Drivers compatible with OEM devices Desktops, Notebooks or Tablets : Lenovo, Acer, HP, Asus, Dell and more .. 📓
 
 </div>
 
@@ -17,12 +17,12 @@ The best moment to create a backup is right after the first boot of the OEM devi
 
 Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png" alt=""></p>  
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png"></p>  
 <div align="center">
 
 ---
 
-## How to use FreeDriver for Backup :
+##  💾 How to use FreeDriver for Backup 💾 
 
 </div>
 
@@ -33,34 +33,41 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 2.  Click the **BackupAndRestoreDriver.exe** and open it.
 3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the **"SAVE"** folder on the **"C:\"** drive. In your case, for backup, choose an external device such as an external **HDD** or **USB** key. </br>
 
-    <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Select%20Folder.png" alt="select folder"></p>
+    <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Select%20Folder.png" width="550"></p>
     
 5.   After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
-6.   Illustrative image of the save drivers contents
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" alt=""></p>
+6.   Illustrative image of the save drivers contents :
+7.   XXXXXXXXXXXXX
 
 
-width="550">
+
+<div style="display:flex; gap:20px;">
+
+<img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" style="display:inline-block; width:579px;">
+<img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Backup%20content%202.png" style="display:inline-block; width:415px;">
+
+</div>
+
 ---
 
 <div align="center">
 
-## How to use FreeDriver for Recovery
+## 📇 How to use FreeDriver for Recovery 📇 
 
 </div>
 
 - To restore a driver or just a specific driver for a specific item, you have two options.
 - After a clean installation on your device, you can restore the collectively backed up drivers via the **"Restore drivers"** option:
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt="" width="500"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt="" width="550"></p>
 
 </div>
-- After the restore is complete, you should see a window with a message that the restore was completed.
 
+- After the restore is complete, you should see a window with a message that the restore was completed.
 
 ---
 
-## How to use FreeDriver for Recovery from Device Manager
+## 📂 How to use FreeDriver for Recovery from Device Manager 📂
 
 - In case you want to restore only a specific item, be it a network card, audio, or other component via Device Manager.
 - In the Update Drivers window that opens, select Browse my computer for drivers.
@@ -72,14 +79,14 @@ width="550">
 
 ---
   
-### Saving a log of Backup or Restore 
+### 🕵️Saving a log of Backup or Restore 🗒️ 
 
 1. Wait until the driver is successfully backed up or restored.
 2. After finishing, when a window appears asking if you want to close the application, click `NO` .
 3. Then simply click the icon under the `[SAVE LOG]` label, which saves the process output into the appropriate folder under the name “DriverLog+Date.txt”.
 The date is appended after “DriverLog” to keep the output organized and also to prevent overwriting your original file or triggering the “file already exists” warning.
 
-<p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Save%20Log.png" width="550"></p>
+<p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Save%20Log.png" width="500"></p>
 
 4. You can find the saved **LOG** on the desktop under the name `"DriveLog + Creation date"`. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else. The upcoming version 1.3 will probably add the option to choose where to save the LOG and its own name.
 
