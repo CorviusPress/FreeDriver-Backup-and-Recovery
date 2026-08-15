@@ -11,11 +11,12 @@
 
 </div>
 
-The Driver Save project is written in PowerShell and is compatible with Windows 10 and Windows 11. It allows you to back up OEM drivers before migration, reinstallation, or any kind of intervention in the operating system, both on desktop PCs and laptops.
-
-The best moment to create a backup is right after the first boot of the OEM device (for example a new laptop or an OEM PC). This way, you have the original drivers of your device safely stored and ready to be restored if needed.
-
-Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
+>  [!IMPORTANT]
+>  The Driver Save project is written in PowerShell and is compatible with Windows 10 and Windows 11. It allows you to back up OEM drivers before migration, reinstallation, or any kind of intervention in the operating system, both on desktop PCs and laptops.
+>
+> The best moment to create a backup is right after the first boot of the OEM device (for example a new laptop or an OEM PC). This way, you have the original drivers of your device safely stored and ready to be restored if needed.
+>
+> Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png"></p>  
 
@@ -24,6 +25,8 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 ---
 
 ##  💾 How to use FreeDriver for Backup 💾 
+
+---
 
 </div>
 
@@ -64,11 +67,12 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 ## 📂 How to use FreeDriver for Recovery from Device Manager 📂
 
-- In case you want to restore only a specific item, be it a network card, audio, or other component via Device Manager.
-- In the Update Drivers window that opens, select Browse my computer for drivers.
-- In the Browse for drivers on your computer window, select the Browse... button
-- In the Browse For Folder window, browse to the location where the drivers were downloaded to, and then select the OK button.
-- In the Browse for drivers on your computer window, make sure the path to the drivers is correct, then select the Next button.
+> [!NOTE]
+> - In case you want to restore only a specific item, be it a network card, audio, or other component via Device Manager.
+> -  In the Update Drivers window that opens, select Browse my computer for drivers.
+> -  In the Browse for drivers on your computer window, select the Browse... button
+> - In the Browse For Folder window, browse to the location where the drivers were downloaded to, and then select the OK button.
+> - In the Browse for drivers on your computer window, make sure the path to the drivers is correct, then select the Next button.
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" width="550"></p>
 
