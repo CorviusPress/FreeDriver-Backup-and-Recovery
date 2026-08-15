@@ -40,7 +40,7 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" alt=""></p>
 
 
-
+width="550">
 ---
 
 <div align="center">
@@ -52,7 +52,7 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 - To restore a driver or just a specific driver for a specific item, you have two options.
 - After a clean installation on your device, you can restore the collectively backed up drivers via the **"Restore drivers"** option:
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt="" width="500"></p>
 
 </div>
 - After the restore is complete, you should see a window with a message that the restore was completed.
@@ -68,7 +68,7 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 - In the Browse For Folder window, browse to the location where the drivers were downloaded to, and then select the OK button.
 - In the Browse for drivers on your computer window, make sure the path to the drivers is correct, then select the Next button.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" width="550"></p>
 
 ---
   
@@ -76,17 +76,19 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 1. Wait until the driver is successfully backed up or restored.
 2. After finishing, when a window appears asking if you want to close the application, click `NO` .
-3. Then just click on the `[SAVE LOG]` icon which will be saved to your desktop, see the attached screen for the contents of the log.
+3. Then simply click the icon under the `[SAVE LOG]` label, which saves the process output into the appropriate folder under the name “DriverLog+Date.txt”.
+The date is appended after “DriverLog” to keep the output organized and also to prevent overwriting your original file or triggering the “file already exists” warning.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Save%20Log.png" alt=""></p>
+<p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Save%20Log.png" width="550"></p>
 
-4. You can find the saved LOG on the desktop under the name `"DriveLog + Creation date"`. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else. The upcoming version 1.3 will probably add the option to choose where to save the LOG and its own name.
-https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-andRecovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png" alt=""></p>
+4. You can find the saved **LOG** on the desktop under the name `"DriveLog + Creation date"`. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else. The upcoming version 1.3 will probably add the option to choose where to save the LOG and its own name.
+
+<p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png" width=""></p>
 
 5. Example of the logo when choosing `[BackUP]` / `Restore Driver` :
 
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Driver%20Log.png" alt=""></p>
+<p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Driver%20Log.png" width="550"></p>
+
 ---
 
 
