@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">FreeDriver Backup and Revovery</h1>
+<h1 align="center">🐈‍⬛ FreeDriver Backup and Recovery 🐈‍⬛</h1>
 
 
 <div align="center">
