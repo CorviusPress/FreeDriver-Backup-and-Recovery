@@ -18,6 +18,7 @@ The best moment to create a backup is right after the first boot of the OEM devi
 Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver%20Backup%20and%20Restore.png"></p>  
+
 <div align="center">
 
 ---
@@ -25,7 +26,6 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 ##  💾 How to use FreeDriver for Backup 💾 
 
 </div>
-
 
 ### Use DriverSave on the Windows platform
 
@@ -37,21 +37,16 @@ Of course, the backup can be created on any device running Windows. I emphasize 
     
 5.   After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
 6.   Illustrative image of the save drivers contents :
-7.   XXXXXXXXXXXXX
-
-
 
 <div style="display:flex; gap:20px;">
-
 <img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" style="display:inline-block; width:579px;">
 <img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Backup%20content%202.png" style="display:inline-block; width:415px;">
-
 </div>
 
 ---
 
 <div align="center">
-
+  
 ## 📇 How to use FreeDriver for Recovery 📇 
 
 </div>
