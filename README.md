@@ -42,8 +42,8 @@
 6.   Illustrative image of the save drivers contents :
 
 <div style="display:flex; gap:20px;">
-<img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" style="display:inline-block; width:579px;">
-<img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Backup%20content%202.png" style="display:inline-block; width:415px;">
+<img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Backup%20Complet.png" style="display:inline-block; width:570px;">
+<img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Backup%20content%202.png" style="display:inline-block; width:410px;">
 </div>
 
 ---
