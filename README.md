@@ -81,8 +81,8 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Save%20Log.png" alt=""></p>
 
 4. You can find the saved LOG on the desktop under the name `"DriveLog + Creation date"`. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else. The upcoming version 1.3 will probably add the option to choose where to save the LOG and its own name.
-
-<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/FreeDriverSave_Images/Get%20Driver%20Log.png" alt=""></p>
+https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png
+<p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-andRecovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png" alt=""></p>
 
 5. Example of the logo when choosing `[BackUP]` / `Restore Driver` :
 
