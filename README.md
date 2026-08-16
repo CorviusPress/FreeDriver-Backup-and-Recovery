@@ -93,6 +93,8 @@ The date is appended after “DriverLog” to keep the output organized and also
 
 5. Example of the logo when choosing `[BackUP]` / `Restore Driver` :
 
+Since the log can contain up to a hundred entries, a **"green check mark"** ✅ is shown after installation or backup to indicate "OK", the process completed without errors, or a **"red cross"** to highlight an error ⁉️ . This way, even during fast mission scrolling, you can quickly locate a point where an issue may have occurred. 😸
+
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Driver%20Log.png" width="550"></p>
 
 ---
