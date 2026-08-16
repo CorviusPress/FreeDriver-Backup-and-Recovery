@@ -6,11 +6,7 @@
 
 ---
 
-
-  
 *<h2 align="center">Backup and Restore .inf Drivers compatible with OEM devices Desktops, Notebooks or Tablets : Lenovo, Acer, HP, Asus, Dell and more .. 📓</h2>*
-
-
 
 >  [!IMPORTANT]
 >  The Driver Save project is written in PowerShell and is compatible with Windows 10 and Windows 11. It allows you to back up OEM drivers before migration, reinstallation, or any kind of intervention in the operating system, both on desktop PCs and laptops.
