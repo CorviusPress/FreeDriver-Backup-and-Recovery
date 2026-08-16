@@ -33,6 +33,8 @@
     
 - After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
 
+---
+
 > [!NOTE]
 > - Windows drivers are not a single file but a package. Each driver contains an installation script **(.inf)**, a cryptographic signature (.cat), and the actual binary driver **(.sys)**. The **.inf** file is the main entry point for Windows — it defines how the driver is installed, which device it supports, and where the other files should be copied.
 > - This is why drivers exported with pnputil appear as **“oemXX.inf”**: the **INF** file is the head of the entire package that *Windows uses to identify the driver*.
