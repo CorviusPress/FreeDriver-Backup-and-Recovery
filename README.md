@@ -70,11 +70,15 @@
 </div>
 
 > [!NOTE]
-> - In case you want to restore only a specific item, be it a network card, audio, or other component via Device Manager.
-> - In the Update Drivers window that opens, select Browse my computer for drivers.
-> - In the Browse for drivers on your computer window, select the Browse... button
-> - In the Browse For Folder window, browse to the location where the drivers were downloaded to, and then select the OK button.
-> - In the Browse for drivers on your computer window, make sure the path to the drivers is correct, then select the Next button.
+> Open device Manager, and select itom for recoery, or for install/update driver.
+> In the Device Manager, select Browse my computer for drivers.
+> In the next menu, choose **Browse my computer for drivers**, then click the **Browse**  button.
+>
+> Next, locate and **select the folder** where the drivers were backed up, and then simply click **OK**.
+>
+> In the Browse my computer for drivers window, verify that the path to the drivers is correct, and then click Next. This should allow Device Manager to install the appropriate driver.
+>
+> **If you are not sure which folder to select, choose the entire SAVE folder — Device Manager will scan it and automatically pick the correct driver**.
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" width="550"></p>
 
@@ -99,10 +103,10 @@
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png" width=""></p>
 
 >  [!TIP]
-> Since the log can contain up to a hundred entries, a **"green check mark"** ✅ is shown after installation or backup to indicate "OK", the process completed without errors, or a
+> Since the log can contain up to a hundred entries, a **"green check mark"** ✅ is shown after installation or backup to indicate **"OK"**, the process completed without errors, or a
 > **"red cross"** to highlight an error ⁉️ . This way, even during fast mission scrolling, you can quickly locate a point where an issue may have occurred. 😸
 
-- Example of the logo when choosing `[BackUP]` / `Restore Driver` :
+- Example of the contents of a `log` file **`[BackUP]` / `Restore Driver`** :
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Driver%20Log.png" width="550"></p>
 
