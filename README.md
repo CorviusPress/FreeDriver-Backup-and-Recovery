@@ -25,7 +25,7 @@
   
 ---
 
-<h2 align="center"> 💾 How to use FreeDriver for Backup 💾 </h2>
+<h1 align="center"> 💾 How to use FreeDriver for Backup 💾 </h1>
 
 
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-## 📇 How to use FreeDriver for Recovery 📇 
+# 📇 How to use FreeDriver for Recovery 📇 
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-## 📂 How to use FreeDriver for Recovery from Device Manager 📂
+# 📂 How to use FreeDriver for Recovery from Device Manager 📂
 
 </div>
 
@@ -93,14 +93,16 @@
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Save%20Log.png" width="450"></p>
 
-- You can find the saved **LOG** on the desktop under the name `"DriveLog + Creation date"`. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else.
-- The upcoming version 1.3 will probably add the option to choose where to save the LOG and its own name.
+- You can find the saved **LOG** on the desktop under the name **`"DriveLog + Creation date"`**. I chose the text `.txt` format to make it easier for users who would like to compare different logs with each other or something else.
+- The upcoming version 1.3 will probably add the option to choose where to save the *LOG* and its own name.
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Get%20Driver%20Log.png" width=""></p>
 
-- Example of the logo when choosing `[BackUP]` / `Restore Driver` :
+>  [!TIP]
+> Since the log can contain up to a hundred entries, a **"green check mark"** ✅ is shown after installation or backup to indicate "OK", the process completed without errors, or a
+> **"red cross"** to highlight an error ⁉️ . This way, even during fast mission scrolling, you can quickly locate a point where an issue may have occurred. 😸
 
-Since the log can contain up to a hundred entries, a **"green check mark"** ✅ is shown after installation or backup to indicate "OK", the process completed without errors, or a **"red cross"** to highlight an error ⁉️ . This way, even during fast mission scrolling, you can quickly locate a point where an issue may have occurred. 😸
+- Example of the logo when choosing `[BackUP]` / `Restore Driver` :
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver_Backup_and_Recovery_Img/Driver%20Log.png" width="550"></p>
 
