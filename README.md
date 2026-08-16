@@ -8,6 +8,12 @@
 
 *<h2 align="center">Backup and Restore .inf Drivers compatible with OEM devices Desktops, Notebooks or Tablets : Lenovo, Acer, HP, Asus, Dell and more .. 📓</h2>*
 
+### MENU
+1. How to use FreeDriver for Backup
+2.  How to use FreeDriver for Recovery
+3.  How to use FreeDriver for Recovery from Device Manager
+4.   Saving a log of Backup or Restore
+---
 >  [!IMPORTANT]
 >  The Driver Save project is written in PowerShell and is compatible with Windows 10 and Windows 11. It allows you to back up OEM drivers before migration, reinstallation, or any kind of intervention in the operating system, both on desktop PCs and laptops.
 >
@@ -17,13 +23,9 @@
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver%20Backup%20and%20Recovery.png"></p>  
 
-
-  
 ---
 
-<h1 align="center"> 💾 How to use FreeDriver for Backup 💾 </h1>
-
-
+<h1 align="center"> 💾 1) How to use FreeDriver for Backup 💾 </h1>
 
 - Download .exe or ps1 if you want to run Powershell from the repository [**FreeDriver Last Relase Download**](https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/releases/tag/V1.1) 
 -  Click the **BackupAndRestoreDriver.exe** and open it.
@@ -46,7 +48,7 @@
 
 <div align="center">
   
-# 📇 How to use FreeDriver for Recovery 📇 
+# 📇 2) How to use FreeDriver for Recovery 📇 
 
 </div>
 
@@ -63,7 +65,7 @@
 
 <div align="center">
 
-# 📂 How to use FreeDriver for Recovery from Device Manager 📂
+# 📂 3) How to use FreeDriver for Recovery from Device Manager 📂
 
 </div>
 
@@ -84,7 +86,7 @@
 
 <div align="center">
   
-# 🕵️Saving a log of Backup or Restore 🗒️ 
+# 🕵️ 4) Saving a log of Backup or Restore 🗒️ 
 
 </div>
 
