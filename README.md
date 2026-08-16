@@ -17,9 +17,9 @@
 >  [!IMPORTANT]
 >  The Driver Save project is written in PowerShell and is compatible with Windows 10 and Windows 11. It allows you to back up OEM drivers before migration, reinstallation, or any kind of intervention in the operating system, both on desktop PCs and laptops.
 >
-> The best moment to create a backup is right after the first boot of the OEM device (for example a new laptop or an OEM PC). This way, you have the original drivers of your device safely stored and ready to be restored if needed.
+> The best time to create a backup is immediately after you first boot up your OEM device (such as a new laptop or computer). This way, you will have a backup of your device's original and original drivers safely stored and ready to restore if needed.
 >
-> Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
+> Of course, you can create a backup on any Windows device. I emphasize OEM mainly because finding adequate drivers, for example, after a clean installation of the OS is not always easy. Creating a backup of drivers can save you a lot of trouble and time, whether it is for installing the original drivers, or after reinstalling in case of possible problems, after auto-updating Drivers via Windows Update.
 
 <p align="center"><img src="https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/blob/main/FreeDriver%20Backup%20and%20Recovery.png"></p>  
 
