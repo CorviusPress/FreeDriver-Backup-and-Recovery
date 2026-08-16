@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">INF‑based driver package backup  is portable version, so it can be run without needing to install it, apart from regular PCs, it is also compatible with devices such as OEM devices, Notebooks or Tablets from manufacteur how to  Lenovo, Acer, HP, Asus, Dell and more .. 📓</h2>
+*<h3 align="center">INF‑based driver package backup  is PORTABLE version, so it can be run 'without needing to install it', apart from regular PCs, it is also compatible with devices such as OEM devices, Notebooks or Tablets from manufacteur how to  Lenovo, Acer, HP, Asus, Dell and more .. 📓</h3>*
 
 ### MENU
 1. How to use FreeDriver for Backup
