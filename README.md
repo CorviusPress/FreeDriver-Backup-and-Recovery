@@ -27,13 +27,13 @@
 
 <h1 align="center"> 💾 1) How to use FreeDriver for Backup 💾 </h1>
 
-- Download .exe or ps1 if you want to run Powershell from the repository [**FreeDriver Last Relase Download**](https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/releases/tag/V1.1) 
--  Click the **BackupAndRestoreDriver.exe** and open it.
-- First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the **"SAVE"** folder on the **"C:\"** drive. In your case, for backup, choose an external device such as an external **HDD** or **USB** key. </br>
+1. Download .exe or ps1 if you want to run Powershell from the repository [**FreeDriver Last Relase Download**](https://github.com/CorviusPress/FreeDriver-Backup-and-Recovery/releases/tag/V1.1)
+2.  Click the **BackupAndRestoreDriver.exe** and open it.
+3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the **"SAVE"** folder on the **"C:\"** drive. In your case, for backup, choose an external device such as an external **HDD** or **USB** key. </br>
 
     <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Select%20Folder.png" width="500"></p>
     
-- After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
+4. After selecting the target folder, click on the `"Backup Driver"` button. This should start a backup of your current drivers to the selected appropriate folder. Depending on the device, the backup can be from `800MB` to `1.5GB`.
 
 ---
 
@@ -52,14 +52,14 @@
 
 </div>
 
-- To restore a driver or just a specific driver for a specific item, you have two options.
-- After a clean installation on your device, you can restore the collectively backed up drivers via the **"Restore drivers"** option:
+1. To restore a driver or just a specific driver for a specific item, you have two options.
+2. After a clean installation on your device, you can restore the collectively backed up drivers via the **"Restore drivers"** option:
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Restoring%20Complet.png" alt="" width="550"></p>
 
 </div>
 
-- After the restore is complete, you should see a window with a message that the restore was completed → 🎉 Backup & Recovery complete.
+3. After the restore is complete, you should see a window with a message that the restore was completed → 🎉 Backup & Recovery complete.
 
 ---
 
@@ -70,15 +70,15 @@
 </div>
 
 > [!NOTE]
-> Open device Manager, and select itom for recoery, or for install/update driver.
+> - Open device Manager, and select itom for recoery, or for install/update driver.
 > In the Device Manager, select Browse my computer for drivers.
 > In the next menu, choose **Browse my computer for drivers**, then click the **Browse**  button.
 >
-> Next, locate and **select the folder** where the drivers were backed up, and then simply click **OK**.
+> - Next, locate and **select the folder** where the drivers were backed up, and then simply click **OK**.
 >
-> In the Browse my computer for drivers window, verify that the path to the drivers is correct, and then click Next. This should allow Device Manager to install the appropriate driver.
+> - In the Browse my computer for drivers window, verify that the path to the drivers is correct, and then click Next. This should allow Device Manager to install the appropriate driver.
 >
-> **If you are not sure which folder to select, choose the entire SAVE folder — Device Manager will scan it and automatically pick the correct driver**.
+> - **If you are not sure which folder to select, choose the entire SAVE folder — Device Manager will scan it and automatically pick the correct driver**.
 
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/FreeDriver-Backup-and-Recovery/refs/heads/main/FreeDriver_Backup_and_Recovery_Img/Recovery_from_device%20manager.png" width="550"></p>
 
